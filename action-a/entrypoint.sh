@@ -1,3 +1,3 @@
 #!/bin/sh -l
 
-sh -c "echo Hello world my name is $MY_NAME"
+git pull origin master
